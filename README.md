@@ -14,7 +14,7 @@ Deep Learning Model for Brain Tumour Detection in MRI Scans
 <li>Contribute to the advancement of medical diagnostics and healthcare technology.</li>
 </ul>
 
-<h2>Dataset details</h2>
+<h2>Dataset details :</h2>
 <p>The Kaggle dataset "Brain Tumor Detection MRI" is a collection of magnetic resonance imaging (MRI) scans of the brain that are labelled with the presence or absence of a brain tumour. This dataset can be used for training and evaluating machine learning models for brain tumour detection.</p>
 <h4>Here are some key details about the dataset</h4>
 <ol>
